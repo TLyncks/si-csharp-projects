@@ -1,0 +1,5 @@
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/2w/1task2/problems/obj/Debug/net8.0/problems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/2w/1task2/problems/obj/Debug/net8.0/problems.AssemblyInfoInputs.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/2w/1task2/problems/obj/Debug/net8.0/problems.AssemblyInfo.cs
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/2w/1task2/problems/obj/Debug/net8.0/problems.csproj.CoreCompileInputs.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/2w/1task2/problems/obj/Debug/net8.0/problems.sourcelink.json
