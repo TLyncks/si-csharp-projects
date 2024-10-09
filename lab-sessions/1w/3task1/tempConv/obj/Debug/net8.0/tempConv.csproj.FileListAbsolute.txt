@@ -1,0 +1,14 @@
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/bin/Debug/net8.0/tempConv
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/bin/Debug/net8.0/tempConv.deps.json
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/bin/Debug/net8.0/tempConv.runtimeconfig.json
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/bin/Debug/net8.0/tempConv.dll
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/bin/Debug/net8.0/tempConv.pdb
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/obj/Debug/net8.0/tempConv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/obj/Debug/net8.0/tempConv.AssemblyInfoInputs.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/obj/Debug/net8.0/tempConv.AssemblyInfo.cs
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/obj/Debug/net8.0/tempConv.csproj.CoreCompileInputs.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/obj/Debug/net8.0/tempConv.dll
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/obj/Debug/net8.0/refint/tempConv.dll
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/obj/Debug/net8.0/tempConv.pdb
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/obj/Debug/net8.0/tempConv.genruntimeconfig.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/3task1/tempConv/obj/Debug/net8.0/ref/tempConv.dll

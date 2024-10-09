@@ -1,0 +1,14 @@
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/bin/Debug/net8.0/square
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/bin/Debug/net8.0/square.deps.json
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/bin/Debug/net8.0/square.runtimeconfig.json
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/bin/Debug/net8.0/square.dll
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/bin/Debug/net8.0/square.pdb
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/Debug/net8.0/square.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/Debug/net8.0/square.AssemblyInfoInputs.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/Debug/net8.0/square.AssemblyInfo.cs
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/Debug/net8.0/square.csproj.CoreCompileInputs.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/Debug/net8.0/square.dll
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/Debug/net8.0/refint/square.dll
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/Debug/net8.0/square.pdb
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/Debug/net8.0/square.genruntimeconfig.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/Debug/net8.0/ref/square.dll
