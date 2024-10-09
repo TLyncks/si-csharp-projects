@@ -1,0 +1,15 @@
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/bin/Debug/net8.0/circle
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/bin/Debug/net8.0/circle.deps.json
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/bin/Debug/net8.0/circle.runtimeconfig.json
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/bin/Debug/net8.0/circle.dll
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/bin/Debug/net8.0/circle.pdb
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/circle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/circle.AssemblyInfoInputs.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/circle.AssemblyInfo.cs
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/circle.csproj.CoreCompileInputs.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/circle.sourcelink.json
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/circle.dll
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/refint/circle.dll
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/circle.pdb
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/circle.genruntimeconfig.cache
+/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/4task1/circle/obj/Debug/net8.0/ref/circle.dll
