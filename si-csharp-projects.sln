@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lab-sessions", "lab-sessions", "{E378E062-BBEC-4253-8588-28656CCADE4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1w", "1w", "{99BA9668-6A24-42CA-8780-2C4C3901303C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2task1", "2task1", "{94921C12-7780-4270-B31F-A15FBB35A0CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "square", "lab-sessions\1w\2task1\square\square.csproj", "{90926FE1-B739-4F76-8BC0-CE90353B5928}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1task1", "1task1", "{707D2784-4330-49CF-92C8-9100B602F119}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello", "lab-sessions\1w\1task1\hello\hello.csproj", "{1DF18006-2CC6-48EF-810D-4DA1356DC244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90926FE1-B739-4F76-8BC0-CE90353B5928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90926FE1-B739-4F76-8BC0-CE90353B5928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90926FE1-B739-4F76-8BC0-CE90353B5928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90926FE1-B739-4F76-8BC0-CE90353B5928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF18006-2CC6-48EF-810D-4DA1356DC244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF18006-2CC6-48EF-810D-4DA1356DC244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF18006-2CC6-48EF-810D-4DA1356DC244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF18006-2CC6-48EF-810D-4DA1356DC244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{99BA9668-6A24-42CA-8780-2C4C3901303C} = {E378E062-BBEC-4253-8588-28656CCADE4A}
+		{94921C12-7780-4270-B31F-A15FBB35A0CD} = {99BA9668-6A24-42CA-8780-2C4C3901303C}
+		{90926FE1-B739-4F76-8BC0-CE90353B5928} = {94921C12-7780-4270-B31F-A15FBB35A0CD}
+		{707D2784-4330-49CF-92C8-9100B602F119} = {99BA9668-6A24-42CA-8780-2C4C3901303C}
+		{1DF18006-2CC6-48EF-810D-4DA1356DC244} = {707D2784-4330-49CF-92C8-9100B602F119}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {287F3BE0-DBD3-471A-9BCC-173765A92A27}
+	EndGlobalSection
+EndGlobal
