@@ -12,3 +12,18 @@
 /Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/1task1/hello/obj/Debug/net8.0/hello.pdb
 /Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/1task1/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
 /Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/1task1/hello/obj/Debug/net8.0/ref/hello.dll
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\bin\Debug\net8.0\hello.exe
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\bin\Debug\net8.0\hello.deps.json
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\bin\Debug\net8.0\hello.runtimeconfig.json
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\bin\Debug\net8.0\hello.dll
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\bin\Debug\net8.0\hello.pdb
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\hello.AssemblyInfoInputs.cache
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\hello.AssemblyInfo.cs
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\hello.csproj.CoreCompileInputs.cache
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\hello.sourcelink.json
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\hello.dll
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\refint\hello.dll
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\hello.pdb
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\hello.genruntimeconfig.cache
+C:\Users\tairo\Proton Drive\tairose\My files\04 - Programming\si-csharp-projects\si-csharp-projects\lab-sessions\1w\1task1\hello\obj\Debug\net8.0\ref\hello.dll
