@@ -8,24 +8,32 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/tairose/.nuget/packages/": {}
+    "C:\\Users\\tairo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/square.csproj",
+      "projectUniqueName": "C:\\Users\\tairo\\Proton Drive\\tairose\\My files\\04 - Programming\\si-csharp-projects\\si-csharp-projects\\lab-sessions\\1w\\2task1\\square\\square.csproj",
       "projectName": "square",
-      "projectPath": "/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/square.csproj",
-      "packagesPath": "/Users/tairose/.nuget/packages/",
-      "outputPath": "/Users/tairose/Library/CloudStorage/ProtonDrive-tairose@protonmail.com-folder/04 - Programming/si-csharp-projects/lab-sessions/1w/2task1/square/obj/",
+      "projectPath": "C:\\Users\\tairo\\Proton Drive\\tairose\\My files\\04 - Programming\\si-csharp-projects\\si-csharp-projects\\lab-sessions\\1w\\2task1\\square\\square.csproj",
+      "packagesPath": "C:\\Users\\tairo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tairo\\Proton Drive\\tairose\\My files\\04 - Programming\\si-csharp-projects\\si-csharp-projects\\lab-sessions\\1w\\2task1\\square\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/tairose/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\tairo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
